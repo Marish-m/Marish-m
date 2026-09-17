@@ -1,24 +1,20 @@
 <!-- Banner Image (Full Width) -->
 <img src="https://github.com/user-attachments/assets/b4654900-1336-4db6-9240-aaeb98513115" width="100%" alt="Header Banner" />
 
-<!-- Status Typing SVG (Left) + Social Icons (Right) -->
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D26A&center=false&vCenter=true&width=380&lines=Feel+free+to+connect!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+learning+new+tech!" alt="Typing SVG" />
-    </td>
-    <td align="right" valign="middle">
-      <a href="mailto:marishyuvan9524@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" alt="Gmail" /></a>
-      <a href="https://www.linkedin.com/in/marish-marimuthu-94231a32b/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn" /></a>
-      <a href="https://www.instagram.com/_marish_____/"><img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram" /></a>
-      <a href="https://x.com/marishyuva97360"><img src="https://skillicons.dev/icons?i=twitter" width="35" height="35" alt="Twitter" /></a>
-      <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="35" height="35" alt="Discord" /></a>
-      <a href="https://github.com/marish-m"><img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="GitHub" /></a>
-      <a href="https://leetcode.com/u/marish_12/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" alt="LeetCode" /></a>
-      <a href="https://www.youtube.com/@marishyuvan5489"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="35" height="35" alt="YouTube" /></a>
-    </td>
-  </tr>
-</table>
+<!-- Status Typing SVG (Floated Left) + Social Icons (Aligned Right) -->
+<p align="right">
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D26A&center=false&vCenter=true&width=380&lines=Feel+free+to+connect!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+learning+new+tech!" alt="Typing SVG" />
+  <a href="mailto:marishyuvan9524@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/marish-marimuthu-94231a32b/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_marish_____/"><img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram" /></a>
+  <a href="https://x.com/marishyuva97360"><img src="https://skillicons.dev/icons?i=twitter" width="35" height="35" alt="Twitter" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" width="35" height="35" alt="Discord" /></a>
+  <a href="https://github.com/marish-m"><img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/marish_12/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" alt="LeetCode" /></a>
+  <a href="https://www.youtube.com/@marishyuvan5489"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="35" height="35" alt="YouTube" /></a>
+</p>
+
+<br clear="both" />
 
 ---
 
