@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Tech Armory
+<img width="473" height="62" alt="Image" src="https://github.com/user-attachments/assets/cbf9a26b-70ed-41a4-a0fb-b0926cfa0904" />
 
 <div align="center">
 
