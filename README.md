@@ -1,106 +1,90 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Marish Marimuthu</h1>
+# 👋 Hey, I'm **Marish Marimuthu**
 
-<h3 align="center">
-  🚀 Frontend Developer | Full Stack Developer | ECE Engineer
-</h3>
+### 💻 Frontend Developer • Full Stack Developer • ECE Engineer
 
-<p align="center">
+<p>
   <a href="https://github.com/Marish-m">
-    <img src="https://komarev.com/ghpvc/?username=Marish-m&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Marish-m&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://github.com/Marish-m?tab=followers">
-    <img src="https://img.shields.io/github/followers/Marish-m?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Marish-m?style=for-the-badge&logo=github&label=Followers" />
   </a>
-  <a href="https://github.com/Marish-m">
-    <img src="https://img.shields.io/github/stars/Marish-m?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <a href="https://github.com/Marish-m?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Marish-m?style=for-the-badge&logo=github&label=Stars" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer;ECE+Engineer;IoT+%26+Web+Development+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ECE+Engineer+%F0%9F%94%8C;IoT+%26+Web+Developer+%F0%9F%8C%90;Always+Learning+%26+Building+%F0%9F%94%A5" />
+
+</div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
+```javascript
+const marish = {
+    name: "Marish Marimuthu",
+    role: "Frontend / Full Stack Developer",
+    education: "Electronics & Communication Engineering",
+    location: "India 🇮🇳",
 
-- 🔭 Currently working on **[FreshBasket – E-Commerce Platform](https://github.com/Marish-m/FreshBasket)**
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Interested in **Frontend Development, MERN Stack & IoT**
-- 🧠 Practicing **C, C++, Java, JavaScript & Python**
-- 🎨 Interested in **UI/UX, Figma & Creative Design**
-- ⚡ Electronics & Communication Engineering student
-- 🚀 I enjoy building projects that combine **hardware + software**
-- 📍 Based in **India**
-- 📫 Reach me at **marishyuvan9524@gmail.com**
+    currentlyWorkingOn: "FreshBasket 🛒",
+    currentlyLearning: ["MERN Stack", "React", "JavaScript"],
+    
+    interests: [
+        "Web Development",
+        "IoT",
+        "Embedded Systems",
+        "UI/UX Design",
+        "Problem Solving"
+    ],
 
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/marishmarimuthu">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:marishyuvan9524@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/_marish____">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/marish_12">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Marish-m">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+    goal: "Build useful products and continuously improve 🚀"
+};
+```
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🚀 What I'm Currently Doing
+## 🚀 What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Web Development
+### 🛒 FreshBasket
 
-- React.js
-- JavaScript
-- HTML & CSS
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
+A full-stack e-commerce platform built with the MERN stack.
+
+**Features**
+
+* 🛍️ Product management
+* 👨‍💼 Admin dashboard
+* 📦 Product categories
+* 🛒 Shopping functionality
+* 🗄️ MongoDB database
+
+<a href="https://github.com/Marish-m/FreshBasket">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🔌 Electronics & IoT
+### 🔌 Smart Home Automation
 
-- ESP32
-- Arduino
-- Sensors
-- Embedded Systems
-- IoT Automation
-- Hardware + Software Integration
+IoT-based home automation using ESP32.
+
+**Features**
+
+* 🎙️ Voice-controlled appliances
+* 💡 Automatic lighting
+* 🌐 Remote monitoring
+* ⚡ Power monitoring
+* 📡 IoT connectivity
 
 </td>
 </tr>
@@ -108,193 +92,277 @@
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
+### 💻 Programming
 
-### 👨‍💻 Programming Languages
-
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & Technologies
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,figma" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,aws" />
 </p>
 
-### 🔌 Electronics & Other Tools
+### 🔌 Electronics & IoT
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino,aws,matlab,blender,photoshop" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,matlab" />
 </p>
 
 ---
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## ⭐ Featured Projects
 
-### 🛒 FreshBasket – E-Commerce Platform
+<table>
+<tr>
 
+<td width="50%">
+
+<h3 align="center">🛒 FreshBasket</h3>
+
+<p align="center">
 <a href="https://github.com/Marish-m/FreshBasket">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marish-m&repo=FreshBasket&theme=tokyonight&hide_border=true" />
 </a>
-
-**Tech:** MERN Stack • React • Node.js • Express • MongoDB
-
-> A full-stack e-commerce platform with product management, categories, shopping functionality and an admin dashboard.
-
----
-
-### 🏠 Smart Home Automation Using ESP32
-
-> IoT-based smart home automation system using ESP32 with sensor-based control, remote monitoring and energy-management features.
-
-**Tech:** ESP32 • IoT • Sensors • Relays • Embedded C
-
----
-
-### 🧩 Maze Solver
-
-> A maze-solving project designed to find a valid path through a maze using algorithmic problem-solving techniques.
-
-**Tech:** C / C++ • Algorithms • Problem Solving
-
----
-
-### 🎓 Student Academic Engagement Monitoring System
-
-> MERN-based academic monitoring platform designed to track attendance, leave, internal assessment and assignment status with parent communication features.
-
-**Tech:** MongoDB • Express.js • React.js • Node.js
-
----
-
-## 📂 More Projects
-
-<p align="center">
-  <a href="https://github.com/Marish-m?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
----
+<p align="center">
+MERN Stack E-Commerce Platform
+</p>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+</td>
+
+<td width="50%">
+
+<h3 align="center">🏠 Smart Home Automation</h3>
+
+<p align="center">
+ESP32 based smart home automation and power monitoring system.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ESP32-IoT-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded-C-green?style=flat-square" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🧩 Maze Solver</h3>
+
+<p align="center">
+Algorithm-based maze solving project focused on logical thinking and path finding.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-Algorithms-blue?style=flat-square" />
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎓 Academic Monitoring System</h3>
+
+<p align="center">
+MERN application for monitoring student attendance, leave, assessments and assignments.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Marish-m&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-       alt="Marish's GitHub Stats"/>
-  
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marish-m&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-       alt="Marish's Top Languages"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Marish-m&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marish-m&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+
+</div>
 
 ---
-
-<!-- ===================== STREAK ===================== -->
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marish-m&theme=tokyonight&hide_border=true"
-       alt="Marish's GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marish-m&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marish-m&theme=tokyo-night&hide_border=true&area=true"
-       alt="Marish's GitHub Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marish-m&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
-
-<!-- ===================== TROPHIES ===================== -->
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marish-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-       alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Marish-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 📌 GitHub Overview
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marish-m/Marish-m/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-<!-- ===================== GITHUB SUMMARY ===================== -->
-
-## 📌 GitHub Summary
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Marish-m?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📁%20Repositories-Explore-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Marish-m?tab=stars">
-<img src="https://img.shields.io/badge/Stars-View%20Stars-yellow?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/⭐%20Stars-Explore-yellow?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Marish-m?tab=followers">
-<img src="https://img.shields.io/badge/Followers-View%20Followers-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/👥%20Followers-Connect-blue?style=for-the-badge" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<!-- ===================== LEARNING ===================== -->
+## 🧠 Currently Learning
 
-## 🌱 Currently Learning
+<div align="center">
+
+|   Technology  | Focus                     |
+| :-----------: | :------------------------ |
+|    ⚛️ React   | Components, Hooks & State |
+| 🟨 JavaScript | ES6+, DOM & APIs          |
+|   🟢 Node.js  | Backend Development       |
+| 🚂 Express.js | REST APIs                 |
+|   🍃 MongoDB  | Database & CRUD           |
+|    🎨 Figma   | UI/UX Design              |
+|    ☁️ Cloud   | Deployment & Services     |
+
+</div>
+
+---
+
+## 🎯 My Goals
 
 ```text
-Frontend Development     ███████████████████░░  90%
-React.js                 █████████████████░░░░  85%
-JavaScript               █████████████████░░░░  85%
-MERN Stack               ██████████████░░░░░░░  70%
-C / C++                  █████████████████░░░░  85%
-IoT & ESP32              ████████████████░░░░░  80%
-UI / UX                  █████████████░░░░░░░░  65%
+╔══════════════════════════════════════════════╗
+║                2026 GOALS                    ║
+╠══════════════════════════════════════════════╣
+║ 🚀 Build production-ready full-stack apps   ║
+║ 💻 Master React & JavaScript                ║
+║ 🧠 Improve DSA & problem solving            ║
+║ ☁️ Learn cloud & deployment                  ║
+║ 🔌 Build advanced IoT projects              ║
+║ 🎨 Improve UI/UX design                     ║
+║ 🤝 Contribute to Open Source                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/marish_12">
+<img src="https://img.shields.io/badge/LeetCode-marish__12-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/Marish-m">
+<img src="https://img.shields.io/badge/GitHub-Marish--m-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/marishmarimuthu">
+<img src="https://img.shields.io/badge/LinkedIn-Marish%20Marimuthu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:marishyuvan9524@gmail.com">
+<img src="https://img.shields.io/badge/Email-marishyuvan9524-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_marish____">
+<img src="https://img.shields.io/badge/Instagram-_marish____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+### `"Build. Break. Learn. Improve. Repeat. 🚀"`
+
+</div>
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Marish-m/Marish-m/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving my repositories a ⭐**
+
+<br>
+
+<a href="https://github.com/Marish-m">
+<img src="https://img.shields.io/badge/Back%20to%20GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
