@@ -1,4 +1,4 @@
-[<img src="./github-header-banner.png" width="100%" />](https://giphy.com/explore/software-developer)
+<img width="480" height="268" alt="Image" src="https://github.com/user-attachments/assets/e6b60283-9114-4dd3-8e99-d4a83260a2b9" />
 
 <div align="center">
 
