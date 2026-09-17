@@ -42,7 +42,7 @@
 
 ---
 
- <img src="./About Me.gif" height="25" /> 
+<img width="353" height="62" alt="Image" src="https://github.com/user-attachments/assets/4605b09c-3e14-4e97-a07f-14f6dbc721d8" />
 
 <img align="right" src="https://github-stats-alpha.vercel.app/api?username=marish-m&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
 
