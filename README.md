@@ -104,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<img width="469" height="62" alt="Image" src="https://github.com/user-attachments/assets/b029e77e-8cb4-46e2-b0f2-7727dddc3886" />
 
 <div align="center">
 
