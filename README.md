@@ -134,7 +134,7 @@
 
 ---
 
-## 🎭 Personal Side
+<img width="506" height="62" alt="Image" src="https://github.com/user-attachments/assets/05b6a82f-df63-48c1-a981-68add6fc2e1a" />
 
 <div align="center">
 
