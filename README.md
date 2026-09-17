@@ -42,7 +42,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<img src="./About Me.gif" height="25" />
 
 <img align="right" src="https://github-stats-alpha.vercel.app/api?username=marish-m&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
 
