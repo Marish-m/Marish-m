@@ -92,7 +92,7 @@
 
 ---
 
-## 🚀 Work Highlights
+<img width="585" height="62" alt="Image" src="https://github.com/user-attachments/assets/55cff438-2556-4a5f-b689-ce85b63aa0a7" />
 
 <div align="center">
 
